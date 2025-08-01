@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Hugo Gabriel</h1>
 
-<!--
-**HugoGabriel-Dev/HugoGabriel-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Sou desenvolvedor em formação com foco em projetos práticos e muita vontade de aprender.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mim
+
+Atualmente estudo **HTML, CSS, JavaScript** e **Python**, aplicando esses conhecimentos em projetos publicados no GitHub.  
+Busco oportunidades para crescer, colaborar com times de tecnologia e ganhar experiência real no desenvolvimento web.
+
+💡 Proativo, focado em aprendizado contínuo e sempre buscando evoluir.
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+---
+
+### 📫 Contato
+
+- 📧 Email: hg116518@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/HugoGabrielll](https://linkedin.com/in/HugoGabrielll)  
+- 💻 GitHub: [github.com/HugoGabrielll](https://github.com/HugoGabrielll)
+
+---
+
+### 📌 Projetos em Destaque
+> *Em breve...*
+
+---
+
+### ⚙️ Aviso
+
+Estou constantemente atualizando meus projetos aqui no GitHub.  
+Sinta-se à vontade para explorar e acompanhar meu crescimento 🚀

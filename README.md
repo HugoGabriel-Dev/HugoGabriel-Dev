@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Hugo Gabriel</h1>
+<h1 align="center">👋 Olá! Eu sou Hugo Gabriel</h1>
 
 <p align="center">
 Sou desenvolvedor em formação com foco em projetos práticos e muita vontade de aprender.

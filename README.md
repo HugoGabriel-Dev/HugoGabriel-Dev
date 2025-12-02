@@ -37,9 +37,7 @@ Busco oportunidades para crescer, colaborar com times de tecnologia e ganhar exp
 ---
 
 ### 📌 Projetos em Destaque
-> *Em breve...*
-
----
+> *Projeto - Tela de login*
 
 ### ⚙️ Aviso
 

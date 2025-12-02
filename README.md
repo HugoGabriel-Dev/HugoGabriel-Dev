@@ -37,7 +37,7 @@ Busco oportunidades para crescer, colaborar com times de tecnologia e ganhar exp
 ---
 
 ### 📌 Projetos em Destaque
-> *Projeto - Tela de login* (Tela de login para telefones e sites na web)
+> *Projeto - Tela de login* (Tela de login para telefones e sites na web)  
 > *Projeto - Portifólio* (Portifólio de apresentação feito com intuito de desenvolver habilidades e mostrar minha jornada como desenvolvedor)
 
 ### ⚙️ Aviso

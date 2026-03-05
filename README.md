@@ -9,9 +9,9 @@ Sou desenvolvedor em formação com foco em projetos práticos e muita vontade d
 ### 💻 Sobre mim
 
 Atualmente estudo **HTML, CSS, JavaScript** e **Python**, aplicando esses conhecimentos em projetos publicados no GitHub.  
-Busco oportunidades para crescer, colaborar com times de tecnologia e ganhar experiência real no desenvolvimento web.
+Busco oportunidades para crescer, colaborar com times de tecnologia e trazer soluções inovadoras mais rápido.
 
-💡 Proativo, focado em aprendizado contínuo e sempre buscando evoluir.
+💡 Proativo, inovador e focado em aprendizado contínuo e sempre buscando evoluir.
 
 ---
 

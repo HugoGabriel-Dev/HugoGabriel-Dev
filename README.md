@@ -32,7 +32,6 @@ Busco oportunidades para crescer, colaborar com times de tecnologia e trazer sol
 
 - 📧 Email: hg116518@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/HugoGabrielll](https://linkedin.com/in/HugoGabrielll)  
-- 💻 GitHub: [github.com/HugoGabrielll](https://github.com/HugoGabrielll)
 
 ---
 

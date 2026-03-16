@@ -1,45 +1,56 @@
-<h1 align="center">👋 Olá! Eu sou Hugo Gabriel</h1>
+# 👋 Olá! Eu sou Hugo Gabriel
 
-<p align="center">
-Sou desenvolvedor em formação com foco em projetos práticos e muita vontade de aprender.
-</p>
-
----
-
-### 💻 Sobre mim
-
-Atualmente estudo **HTML, CSS, JavaScript**, **react.js** **Python**, aplicando esses conhecimentos em projetos publicados no GitHub.  
-Busco oportunidades para crescer, colaborar com times de tecnologia e trazer soluções inovadoras mais rápido.
-
-💡 Proativo, inovador e focado em aprendizado contínuo e sempre buscando evoluir.
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<div align="center">
+  <em>Desenvolvedor Full-Stack em formação | Recife, Brasil 🚀</em>
 </div>
 
 ---
 
-### 📫 Contato
+## ✨ Sobre mim
 
-- 📧 Email: hg116518@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/HugoGabrielll](https://linkedin.com/in/HugoGabrielll)  
+- 💻 Estudando **HTML, CSS, JavaScript, React.js e Python**
+- 🚀 Aplicando conhecimentos em projetos práticos publicados no GitHub
+- 🤝 Buscando oportunidades para crescer e colaborar com times de tecnologia
+- 💡 Proativo, inovador e focado em aprendizado contínuo
 
 ---
 
-### 📌 Projetos em Destaque
-> *Projeto - Tela de login* (Tela de login para telefones e sites na web)  
-> *Projeto - Portifólio* (Portifólio de apresentação feito com intuito de desenvolver habilidades e mostrar minha jornada como desenvolvedor)
+## 🛠️ Tecnologias e Ferramentas
 
-### ⚙️ Aviso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-Estou constantemente atualizando meus projetos aqui no GitHub.  
-Sinta-se à vontade para explorar e acompanhar meu crescimento 🚀
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoGabriel-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoGabriel-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔐 **[Tela de Login](https://github.com/HugoGabriel-Dev)** — Tela responsiva para telefones e sites na web
+- 🌐 **[Portfólio](https://github.com/HugoGabriel-Dev)** — Apresentação da minha jornada como desenvolvedor
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HugoGabrielll)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hg116518@gmail.com)
+
+---
+
+<div align="center">
+  <em>⚙️ Estou constantemente atualizando meus projetos. Sinta-se à vontade para explorar! 🚀</em>
+</div>

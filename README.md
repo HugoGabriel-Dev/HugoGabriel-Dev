@@ -8,7 +8,7 @@
 
 ## ✨ Sobre mim
 
-- 💻 Estudando **Ciência da computação com Desenvolvimento de softwares: JavaScript com React, TypeScript e Python com django, flask**
+- 💻 Estudante **Ciência da computação Full-stack: JavaScript com React, TypeScript e Python com django, flask**
 - 🚀 Aplicando conhecimentos em projetos práticos publicados no GitHub
 - 🤝 Buscando oportunidades para crescer e colaborar com times de tecnologia
 - 💡 Proativo, inovador e focado em aprendizado contínuo

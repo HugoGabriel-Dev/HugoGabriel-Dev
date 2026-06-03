@@ -8,7 +8,7 @@
 
 ## ✨ Sobre mim
 
-- 💻 Estudando **HTML, CSS, JavaScript, React.js e Python**
+- 💻 Estudando **Ciência da computação com Desenvolvimento de softwares: JavaScript, React, TypeScript e Python, django, flask**
 - 🚀 Aplicando conhecimentos em projetos práticos publicados no GitHub
 - 🤝 Buscando oportunidades para crescer e colaborar com times de tecnologia
 - 💡 Proativo, inovador e focado em aprendizado contínuo
